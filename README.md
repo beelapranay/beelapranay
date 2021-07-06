@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there, I am Pranay Beela 👨‍💻
 
-<!--
-**beelapranay/beelapranay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![banner](https://user-images.githubusercontent.com/54392379/124633212-accb3980-dea2-11eb-9d6c-59455acd3e9e.png)
 
-Here are some ideas to get you started:
+I am a 3rd year undergrad pursuing **Computer Science Engineering** at SRET (Chennai)
+I am familiar with:
+- Flutter 🦸‍♂️
+- Dart 🎯
+- Firebase 🔥
+- Java ☕
+- React 🟦
+- Node.js 🟩
+- Javascript 🟨
+- HTML 🤖
+- CSS 👾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beelapranay&show_icons=true&locale=en&layout=compact" alt="beelapranay Stats" />
+
+<p align="start"> <img src="https://github-readme-stats.vercel.app/api?username=beelapranay&show_icons=true&theme=tokyonight" alt="beelapranay Stats" />
