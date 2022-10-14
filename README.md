@@ -1,4 +1,4 @@
-## Hi there, I am Pranay Beela 👨‍💻
+## Hi! I am Pranay 👨‍💻
 
 ![banner](https://user-images.githubusercontent.com/54392379/124633212-accb3980-dea2-11eb-9d6c-59455acd3e9e.png)
 
