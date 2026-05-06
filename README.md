@@ -19,7 +19,7 @@
 ## 🧠 About me
 
 ```txt
-🎓  MS CS @ Northeastern University, Boston — graduating May 2026
+🎓  MS CS @ Northeastern University, Boston — graduated May 2026, actively looking for full-time/intern/part-time roles
 🔧  I build distributed systems, backend APIs, and autonomous AI agents
 💼  Past: Associate SWE @ Accenture · ML Eng Intern @ Velozity Global Solutions
 🌱  Currently exploring: ASI, agentic frameworks, MCP, local LLMs
@@ -38,24 +38,5 @@
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,mongodb,postgres,react,vue&theme=light" />
 </p>
-
----
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beelapranay&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beelapranay&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=6366f1&text_color=c9d1d9" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=beelapranay&theme=tokyonight&hide_border=true&background=00000000&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=beelapranay&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer" />
